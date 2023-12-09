@@ -1,0 +1,9 @@
+body {
+    background-color: beige;
+}
+
+#map {
+    height: 480px;
+
+    border: 1rem coral solid;
+}
